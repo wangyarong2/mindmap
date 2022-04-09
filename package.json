@@ -33,7 +33,7 @@
     "hc-proxy": "^2.0.3",
     "hc-request-client": "^2.0.10",
     "lodash": "4.17.14",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "qs": "^6.9.1",
     "react-color": "^2.17.3",
     "ws": "^7.2.0"
